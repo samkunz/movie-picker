@@ -1,0 +1,51 @@
+body {
+    font-size: 1.2em;
+    margin: 16px 24px;
+}
+
+h1 {
+    font-size: 2.6em;
+    margin: auto auto 0.2em;
+}
+
+h1 a {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 0.3em auto 0.8em;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin: 0.5em auto 0.3em;
+}
+
+p {
+    max-width: 70ch;
+}
+
+p, ul {
+    margin-block-start: 0.5em;
+    margin-block-end: 1em;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 0.15em 0.4em;
+}
+
+.fine-print {
+    font-size: 0.8em;
+}
+
+.start-button {
+    font-size: 3.5em;
+    margin: 0.2em auto;
+}
